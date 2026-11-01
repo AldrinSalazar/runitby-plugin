@@ -1,0 +1,16 @@
+{
+  "name": "runitby",
+  "displayName": "Run it by",
+  "version": "1.0.0",
+  "description": "Ask people outside the chat for answers or approvals by link: forms, surveys and sign-offs they answer on their phone, returned as JSON.",
+  "author": {
+    "name": "Run it by",
+    "email": "hello@runitby.app",
+    "url": "https://runitby.app"
+  },
+  "homepage": "https://runitby.app",
+  "privacyPolicyUrl": "https://runitby.app/privacy",
+  "repository": "https://github.com/AldrinSalazar/runitby-plugin",
+  "license": "MIT-0",
+  "keywords": ["forms", "surveys", "approvals", "human in the loop", "intake", "sign-off"]
+}

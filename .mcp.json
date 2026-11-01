@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "runitby": {
+      "type": "http",
+      "url": "https://runitby.app/mcp"
+    }
+  }
+}
