@@ -1,6 +1,6 @@
-# Run it by
+![Run it by: let Claude ask a person](assets/banner.png)
 
-![Run it by](assets/logo.png)
+# Run it by
 
 Ask people outside the chat for answers or approvals by link. They answer on their phone with no sign-up, and Claude gets their answers back as JSON.
 
